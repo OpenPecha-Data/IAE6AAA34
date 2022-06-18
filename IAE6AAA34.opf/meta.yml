@@ -1,0 +1,41 @@
+id: IAE6AAA34
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T23:42:50.690622'
+last_modified: '2022-06-18T23:42:50.690636'
+parser: null
+source_metadata:
+  title: A mes zhabss (1597–1659) Great Sakya Genealogy
+  author: a mes zhabs ngag dbang kun dga bsod nams/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2017-07-10); converted from external file, revision in process, thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - 'Digital edition:Sakya Research Centre (INTERNAL); This text was initially inputted
+    by Sachen International (Digital Text version/id: AMAI016 sa skya''i gdung rabs
+    ngo mtshar
+
+    bang mdzod/.doc, 2017-05-26). It is copy protected and only intended for SRC internal
+    usage. It should not be further distributed. (src)'
+  - Text input:Guru Lama, Sachen International, Kathmandu (Nepal) (si)
+  - Editorial process:tshe ring grong shar/ (ut), Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/1566
+  bases:
+    aeee:
+      title: A mes zhabss (1597–1659) Great Sakya Genealogy
+      order: 1
+      base_file: aeee.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
